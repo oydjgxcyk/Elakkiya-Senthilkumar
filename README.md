@@ -20,7 +20,7 @@
 ```python
 class Elakkiya:
     def __init__(self):
-        self.name         = "Elakkiya S"
+        self.name         = "Elakkiya Senthilkumar"
         self.location     = "Mannargudi, Tamil Nadu, India"
         self.degree       = "B.Tech – AI & Data Science (2023–2027)"
         self.university   = "Dhanalakshmi Srinivasan University"
